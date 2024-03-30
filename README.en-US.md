@@ -3,16 +3,13 @@ You can contact me with E-mail:
 gogoend@qq.com
 
 ## Abstract Personal Info
-Beijing, China | 24 years old | Male | Bachelor's Degree | Graduated at 2019
+Beijing, China | 27 years old | Male | Bachelor's Degree | Graduated at 2019
 
 ## Skill Stack
 ### Frontend Development
 - Programming Language: HTML, CSS, JavaScript
 - IDE: Visual Studio Code
-- Build Tools：Webpack、Rollup
-- Framework: Vue.js
-- Frequently Used Library: Axios、Three.js
-- Other: SVG
+- Tech: Webpack、Vue.js、Three.js、Puppeteer
 
 ### Digital Content
 - 2D Content: Photoshop, illustrator, After Effects
