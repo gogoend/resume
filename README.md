@@ -1,20 +1,17 @@
-# gogoend - ~~前端开发工程师~~切图的
-~~近期不换工作，除非有人撩🤪~~
-行情不大好，随缘看机会
-🉑️通过 gogoend@qq.com 勾搭~
+# gogoend - 前端开发工程师
+
+部门散了，失业了 正在逛 Boss
+
+🉑️ 通过 gogoend@qq.com 勾搭~
 
 ## 个人信息
-27岁 | 男 | 本科 | 2019年毕业
+29岁 | 男 | 本科 | 2019年毕业
 
 ## 个人技术栈
 ### 前端开发
 - 语言：HTML、CSS、JavaScript
 - 代码编辑器：Visual Studio Code
-- 技能：Webpack、Vue.js、Three.js、Puppeteer
-
-### 数字内容
-- 2D内容：Photoshop、illustrator、After Effects
-- 3D内容：Cinema 4D、Substance Painter、Twinmotion
+- 技能：Webpack、Vue.js、Three.js、Puppeteer、Electron
 
 ## 项目
 ### Three.js
